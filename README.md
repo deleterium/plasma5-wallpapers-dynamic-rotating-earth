@@ -7,4 +7,4 @@ Size: **3840x2160p**
 * Choosing the file from user timezone, on morning user's location will be at left, noon at center and at night its location will not be visible.
 * Made for use with [zzag/plasma5-wallpapers-dynamic](https://github.com/zzag/plasma5-wallpapers-dynamic). See their instructions for installation.
 * If user's timezone is not available, one can make its own json file by entering its timezone in spreadsheet, than generating one json file for use in [kdynamicwallpaperbuilder](https://github.com/zzag/plasma5-wallpapers-dynamic/blob/master/src/tools/builder/README.md)
-[](https://github.com/deleterium/plasma5-wallpapers-dynamic-rotating-earth/blob/master/rotating-earth-preview.jpg)
+<img src="https://github.com/deleterium/plasma5-wallpapers-dynamic-rotating-earth/blob/master/rotating-earth-preview.jpg" width="600">
